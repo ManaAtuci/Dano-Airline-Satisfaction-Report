@@ -86,17 +86,9 @@ This repository contains a comprehensive customer satisfaction analysis for Dano
 | File | Description |
 |------|-------------|
 | `https://github.com/ManaAtuci/Dano-Airline-Satisfaction-Report/blob/main/Dano%20Airline%20%C2%B7%20Customer%20Satisfaction%20Report.pdf` | Dano Airline Report.pdf |
-| `dano_airline_dashboard.pbix` | Power BI dashboard file |
-| `README.md` | This documentation |
+| `https://github.com/ManaAtuci/Dano-Airline-Satisfaction-Report/blob/main/AIRLINE.pbix` | Power BI dashboard file |
 
 ---
-
-## 🚀 How to View
-
-### View the HTML Report
-1. Download `Dano_Airline_Satisfaction_Report.html`
-2. Open in any browser
-3. Print or save as PDF
 
 ### View the Power BI Dashboard
 1. Download `dano_airline_dashboard.pbix`
