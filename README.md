@@ -94,4 +94,3 @@ This repository contains a comprehensive customer satisfaction analysis for Dano
 1. Download `dano_airline_dashboard.pbix`
 2. Open with Power BI Desktop (free)
 
-### View via GitHub Pages (if enabled)
