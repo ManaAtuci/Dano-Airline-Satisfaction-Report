@@ -5,8 +5,6 @@ Passengers Satisfaction Report for Dano Airline
 
 > **Data-driven insights for service excellence** · Based on 130,000 passenger responses
 
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen) ![Report](https://img.shields.io/badge/Report-HTML-blue) ![Data](https://img.shields.io/badge/Data-130K_Responses-orange)
-
 ---
 
 ## 📊 Overview
